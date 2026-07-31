@@ -4,3 +4,6 @@
 
 ### Architecture
 ![Architecture](images/ai_health_assistant_architecture.png)
+
+### ERD Design
+![ERD](images/erd_design.png)
